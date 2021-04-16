@@ -9,6 +9,7 @@
 }
 
 body {
+	font-family: 'DM Sans Regular';
 	background: #F7F8FA;
 }
 
@@ -20,8 +21,8 @@ body {
 h1 {
 	font-family: 'DM Sans Bold';
 	font-weight: normal;
-	font-size: 35px;
-	line-height: 42px;
+	font-size: 32px;
+	line-height: 38px;
 	letter-spacing: -0.02em;
 	text-align: center;
 }
@@ -72,14 +73,10 @@ h1 {
 		width: 100%;
 	}
 	#wrapper {
-		margin-top: 125px;
+		margin-top: 75px;
 	}
 	#blurb {
 		font-size: 17px;
-	}
-	#howitworks {
-		padding: 4px 16px 32px 16px;
-		border-radius: 0px;
 	}
 }
 
